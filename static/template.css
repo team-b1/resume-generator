@@ -1,0 +1,63 @@
+body {
+    font-family: "Times New Roman";
+}
+
+h3 {
+    color: #579181;
+}
+
+ResumeHeader {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    flex-direction: column;
+}
+
+Name {
+    color: #323d60;
+    font-size: 3em;
+}
+
+ContactInfo {
+    font-size: 1em;
+    display: flex;
+}
+
+Addr {
+    margin-right: 5px;
+}
+
+Cellphone {
+    margin-right: 5px;
+}
+
+Content {
+    display: grid;
+    font-size: 0.8em;
+}
+
+SectionHeader {
+    font-size: 2em;
+    color: #323d60;
+    grid-column: 1 / 12;
+}
+
+SectionContent {
+}
+
+Summary {
+    grid-column: 1 / 12;
+    font-size: 1em;
+}
+
+Work {
+    grid-column: 1 / 12;
+    display: flex;
+    flex-direction: column;
+}
+
+School {
+    grid-column: 1 / 12;
+    display: flex;
+    flex-direction: column;
+}

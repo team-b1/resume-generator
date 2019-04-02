@@ -1,0 +1,10 @@
+{
+    "Name": "John Doe",
+    "Addr": "**Address**: 123 Generic Lane, City, State",
+    "Cellphone": "**Cell**: 123-456-7890",
+    "Email": "**Email**: jdoe@example.com",
+    "Summary": "My name is John Doe. I am an aspiring imaginary person trying to make it in this world. I am hardworking.",
+    "Work": "### Company Inc.\n\n01/01/2000-01/01/2005\n\n[Job Position], [Location]\n\n- Did work\n- Did stuff\n\n### Other Company Inc.\n\n01/01/2005-01/01/2010\n\n[Job Position], [Location]\n\n- Did work\n- Did stuff",
+    "School": "### Something University\n\n01/01/1995-01/01/2000\n\n- Computer Science B.S.\n- GPA 3.3/4.0\n\n### Somewhere Highschool\n\n01/01/1990-01/01/1995\n\n- Course Sampling: AP Calculus BC\n- GPA: 3.5/4.0",
+    "Projects": "### Project 1\n\n01/01/2000-Present\n\nDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in lorem tortor. Nulla dignissim nec ipsum tincidunt luctus. Cras varius justo non blandit faucibus. Phasellus in finibus nisi, a maximus nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi iaculis, lacus at sollicitudin maximus, nisi neque hendrerit nisi, in mattis purus purus eu ipsum. Praesent ornare diam eu lacus consectetur molestie."
+}
